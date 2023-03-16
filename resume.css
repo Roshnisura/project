@@ -1,0 +1,72 @@
+img
+{
+    border-radius: 50%;
+}
+.container
+{
+    align-items: center;
+position: relative;
+width: 100%;
+max-width: 800px;
+min-height: 1000px;
+margin: 50px;
+background: #fff;
+display: flex;
+  flex-wrap: wrap;
+grid-template-columns: repeat(2,50px,300px);
+box-shadow: 0 35px 55px rgba(0, 0,0, 0.1);
+}
+.main-div1
+{
+height: 100%;
+width: 30%;
+}
+.sub-div1
+{
+    align-items: center;
+height: 40%;
+text-align: center;
+background-color:rgb(7, 43, 188);
+color: black;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.sub-div2
+{
+    align-items: center;
+    height: 100%;
+    text-align: center;
+    color: white;
+    background-color:rgb(44, 191, 4);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.main-div2
+{
+    height: 100%;
+    width: 70%;
+}
+.profileinfo
+{
+    align-items: center;
+    height: 40%;
+    text-align: center;
+    background-color:white;
+    color: rgb(11, 109, 127);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.expertise
+{
+    
+    height: 40%;
+    align-items: center;
+    background-color:white;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.experience
+{
+    height: 40%;
+    align-items: center;
+    background-color:white;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
